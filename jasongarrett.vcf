@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jason Garrett
+N:Garrett;Jason;;;
+TITLE:Electrician
+ORG:Michael and Son
+TEL;TYPE=CELL:+13368406460
+EMAIL;TYPE=INTERNET:greensboro@michaelandson.com
+URL:https://www.michaelandson.com
+ADR;TYPE=WORK:;;7341 W Friendly Ave Suite H;Greensboro;NC;27410;USA
+END:VCARD
