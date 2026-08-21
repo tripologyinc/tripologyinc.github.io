@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Marc Levy
+N:Levy;Marc;;;
+TITLE:Executive Vice President
+ORG:Air Esscentials Inc.
+TEL;TYPE=CELL:+13054099182
+TEL;TYPE=WORK:+13054461670
+EMAIL;TYPE=INTERNET:marc@airesscentials.com
+URL:https://www.airesscentials.com
+ADR;TYPE=WORK:;;1800 NW 96th Ave;Doral;FL;33172;USA
+END:VCARD
